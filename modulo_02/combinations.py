@@ -13,7 +13,7 @@ camisetas = [
     ['preta', 'branca'],
     ['p', 'm', 'g'],
     ['masculino', 'feminino', 'unisex'],
-    ['algodão', 'poliéster']
+    ['algodão', 'poliéster'],
 ]
 
 print_iter(combinations(pessoas, 2))
